@@ -2,7 +2,7 @@ export default function Forms(){
     return(
         <>
          <h1>
-            Formulario
+            <button/>
          </h1>
         </>
     );
